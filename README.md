@@ -11,7 +11,7 @@
 
 - [workout-app](https://github.com/rishi-m100/workout-app):
 
-  HTML/CSS, JavaScript, React, NodeJS, Hosted [here](https://workout-app-498b1.web.app/)
+ ### HTML/CSS, JavaScript, React, NodeJS, Hosted [here](https://workout-app-498b1.web.app/)
   
 • Created a React web application to plan, create, and track gym workouts on a weekly basis.
 
@@ -19,31 +19,31 @@
 
 - [song_recommender](https://github.com/rishi-m100/song_recommender):
 
-  Python, Jupyter Notebook, Hosted with Binder [here](https://mybinder.org/v2/gh/rishi-m100/song_recommender/HEAD?labpath=song_recommender.ipynb)
+ ### Python, Jupyter Notebook, Hosted with Binder [here](https://mybinder.org/v2/gh/rishi-m100/song_recommender/HEAD?labpath=song_recommender.ipynb)
   
 • Basic song recommendation Jupyter Notebook based on song metrics and similarity to specified song.
 
 - [stackoverflow_top50_ question_scraper](https://github.com/rishi-m100/stackoverflow_top50_question_scraper):
 
-  Python, React, Node.js, Express.js, MongoDB, CORS
+ ### Python, React, Node.js, Express.js, MongoDB, CORS
   
 • Python program to scrape data from Stack Overflow to grab top 50 new questions (question title and URL). Scraped data then stored in MongoDB database and displayed via React App.
 
 - [nfl_predictions](https://github.com/rishi-m100/nfl_predictions):
 
-  Python, Jupyter Notebook, Hosted with Binder [here](https://mybinder.org/v2/gh/rishi-m100/nfl_predictions/HEAD?labpath=nfl.ipynb)
+###  Python, Jupyter Notebook, Hosted with Binder [here](https://mybinder.org/v2/gh/rishi-m100/nfl_predictions/HEAD?labpath=nfl.ipynb)
   
 • NFL stat prediction Jupyter Notebook based on player data and statistics over several years. 
 
 - [movie_recommendation_system](https://github.com/rishi-m100/movie_recommendation_system):
 
-  Python, Jupyter Notebook, Hosted with Binder [here](https://mybinder.org/v2/gh/rishi-m100/movie_recommendation_system/HEAD?labpath=rec_system2.ipynb)
+###  Python, Jupyter Notebook, Hosted with Binder [here](https://mybinder.org/v2/gh/rishi-m100/movie_recommendation_system/HEAD?labpath=rec_system2.ipynb)
   
 • Basic movie recommendation Jupyter Notebook based on user ratings and similarity to specified movie.
 
 - [LEFA Website](https://github.com/rishi-m100/lefa):
   
-  HTML/CSS, JavaScript, Hosted [here](https://lefaofficial.org/)
+###  HTML/CSS, JavaScript, Hosted [here](https://lefaofficial.org/)
   
 • Created a website for a nonprofit organization with chapters across the country that promotes financial literacy in America.
 
@@ -51,7 +51,7 @@
 
 - [Choice Table Website](https://github.com/rishi-m100/choice-table):
 
-  HTML/CSS, JavaScript, PHP, Hosted [here](https://rishi-m100.github.io/choice-table/)
+###  HTML/CSS, JavaScript, PHP, Hosted [here](https://rishi-m100.github.io/choice-table/)
   
 • Created a simple website for 2021 FBLA Website Design Competition (placed top-12 nationally).
 
@@ -59,7 +59,7 @@
 
 - [todo-list](https://github.com/rishi-m100/todo-list): (work in progress)
 
-  HTML/CSS (SCSS), JavaScript, React, NodeJS, Firebase, React Testing, Hosted [here](https://todo-list-35f2a.web.app/)
+###  HTML/CSS (SCSS), JavaScript, React, NodeJS, Firebase, React Testing, Hosted [here](https://todo-list-35f2a.web.app/)
   
 • Created a to-do list React web application to track, store, create, and manage user-created list items.
 
