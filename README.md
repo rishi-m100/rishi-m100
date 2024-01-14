@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**rishi-m100/rishi-m100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer interested in [Your Interests]. I enjoy working on projects related to [Your Skills].
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Project 1](link):** Short description about Project 1.
+- **[Project 2](link):** Short description about Project 2.
+- ...
+
+## Portfolio
+
+Check out my [Portfolio](https://your-portfolio-link.com) to see more of my work!
+
+## About Me
+
+I am a [Your Profession/Role] based in [Your Location]. My goal is to [Your Goal or Mission]. In my free time, I [Your Hobbies or Interests].
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Twitter](https://twitter.com/yourhandle/)
+- [GitHub](https://github.com/your-username/)
+- [Personal Website](https://your-personal-website.com)
+
+## Resume
+
+Explore my professional background in more detail by checking out my [Resume](link-to-resume.pdf).
+
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) for collaboration or any inquiries.
+
+Thanks for stopping by!
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)](https://github.com/your-username/your-username)
+
