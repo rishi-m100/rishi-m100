@@ -14,6 +14,7 @@
   HTML/CSS, JavaScript, React, NodeJS, Hosted [here](https://workout-app-498b1.web.app/)
   
 • Created a React web application to plan, create, and track gym workouts on a weekly basis.
+
 • Processed user-inputted information in the back-end of the app to return an organized list and plan of various potential workouts.
 
 - [song_recommender](https://github.com/rishi-m100/song_recommender):
@@ -45,13 +46,15 @@
   HTML/CSS, JavaScript, Hosted [here](https://lefaofficial.org/)
   
 • Created a website for a nonprofit organization with chapters across the country that promotes financial literacy in America.
+
 • Utilized HTML, CSS, and JavaScript to create the website from scratch in order to allow flexibility and customization.
 
 - [Choice Table Website](https://github.com/rishi-m100/choice-table):
 
   HTML/CSS, JavaScript, PHP, Hosted [here](https://rishi-m100.github.io/choice-table/)
   
-• Created a simple website for 2021 FBLA Website Design Competition (placed top-12 nationally)
+• Created a simple website for 2021 FBLA Website Design Competition (placed top-12 nationally).
+
 • Used HTML, CSS, JS, and PHP to display business information, allow for responsiveness, and interactivity.
 
 - [todo-list](https://github.com/rishi-m100/todo-list): (work in progress)
@@ -59,6 +62,7 @@
   HTML/CSS (SCSS), JavaScript, React, NodeJS, Firebase, React Testing, Hosted [here](https://todo-list-35f2a.web.app/)
   
 • Created a to-do list React web application to track, store, create, and manage user-created list items.
+
 • Accepted user input, allowed for task creation and deletion, created a feature for scheduled tasks, and implemented
 
   
