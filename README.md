@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Rishi, a passionate computer science student interested in software development, data science, and Machine Learning.
+## I'm Rishi, a passionate computer science student interested in software development, data science, and Machine Learning.
 
 ## Projects
 
