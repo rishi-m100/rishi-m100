@@ -8,10 +8,11 @@ I'm Rishi, a passionate computer science student interested in software developm
 
 ### Look below to my pinned repos and additionally to my repositories tab to see all my projects. 
 
-- **[workout-app](https://github.com/rishi-m100/workout-app):**
+- **[workout-app](https://github.com/rishi-m100/workout-app):
+  **
   HTML/CSS, JavaScript, React, NodeJS
 • Created a React web application to plan, create, and track gym workouts on a weekly basis.
-• Processed user-inputted information in the back-end of the app to return an organized list and plan of various potential workouts.\
+• Processed user-inputted information in the back-end of the app to return an organized list and plan of various potential workouts.
 
 - **[Project 2](link):** Short description about Project 2.
 - ...
