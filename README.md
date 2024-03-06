@@ -14,6 +14,7 @@
  ### Flask, Python, OpenAI API, React, NodeJS, Firebase
   
 • Web app using OpenAI’s LLM to generate study plans and practice questions from inputted audio/text files.
+
 • React frontend and Flask backend breaking down content into sizeable chunks and providing practice study
 problems, making use of Python modules for PDF text extraction and audio transcription.
 
