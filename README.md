@@ -9,6 +9,14 @@
 
 ### Look below to my pinned repos and additionally to my repositories tab to see all my projects. 
 
+## - [AI Study Plan Generator](https://github.com/rishi-m100/StudyBud):
+
+ ### Flask, Python, OpenAI API, React, NodeJS, Firebase
+  
+• Web app using OpenAI’s LLM to generate study plans and practice questions from inputted audio/text files.
+• React frontend and Flask backend breaking down content into sizeable chunks and providing practice study
+problems, making use of Python modules for PDF text extraction and audio transcription.
+
 ## - [workout-app](https://github.com/rishi-m100/workout-app):
 
  ### HTML/CSS, JavaScript, React, NodeJS, Hosted [here](https://workout-app-498b1.web.app/)
