@@ -13,6 +13,14 @@ Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of
 
 ### Look below to my pinned repos and additionally to my repositories tab to see all my projects. 
 
+## - [Trading Bot + LSTM Model(https://github.com/rishi-m100/trading-bot):
+
+ ### Python, Tensorflow, Robin Stocks API
+  
+• Python trading bot using the Robin Stocks API to execute trades at specified thresholds, predict prices, and use Machine Learning to improve strategy.
+
+• Made use of the LSTM ML architecture for stock price prediction.
+
 ## - [AI Study Plan Generator](https://github.com/rishi-m100/StudyBud):
 
  ### Flask, Python, OpenAI API, React, NodeJS, Firebase
