@@ -13,7 +13,7 @@ Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of
 
 ### Look below to my pinned repos and additionally to my repositories tab to see all my projects. 
 
-## - [Trading Bot + LSTM Model(https://github.com/rishi-m100/trading-bot):
+## - [Trading Bot + LSTM Model](https://github.com/rishi-m100/trading-bot):
 
  ### Python, Tensorflow, Robin Stocks API
   
