@@ -3,6 +3,10 @@
 ### I'm Rishi, a passionate computer science student interested in software development, data science, and Machine Learning.
 ---
 
+## Portfolio
+
+Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of my work!
+
 ## Projects
 
 ## Some of my featured projects
@@ -74,10 +78,6 @@ problems, making use of Python modules for PDF text extraction and audio transcr
 
 • Accepted user input, allowed for task creation and deletion, created a feature for scheduled tasks, and implemented
 
-  
-## Portfolio
-
-Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of my work!
 
 ## About Me
 
