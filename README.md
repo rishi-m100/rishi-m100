@@ -21,6 +21,16 @@ Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of
 
 • Made use of the LSTM ML architecture for stock price prediction.
 
+## - [React App Machine Learning Model Classifier Mini-Project](https://ml-react-flask-app.onrender.com/):
+
+ ### Python, Tensorflow, Keras, Axios, Flask, React
+  
+• Machine learning model to detect whether an uploaded image contains a cat or a dog.
+
+• Model built using TensorFlow and served via a Flask backend.
+
+• Frontend built using React to provide a user-friendly interface for uploading images and viewing predictions.
+
 ## - [AI Study Plan Generator](https://github.com/rishi-m100/StudyBud):
 
  ### Flask, Python, OpenAI API, React, NodeJS, Firebase
