@@ -13,6 +13,16 @@ Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of
 
 ### Look below to my pinned repos and additionally to my repositories tab to see all my projects. 
 
+## - [Stock Prediction App](https://stock-prediction-app-y9vw.onrender.com/):
+
+ ### Python, Yahoo Finance API, Numpy, Pandas, Axios, Flask, React
+
+• Machine learning model to predict stock prices for user-selected S&P 500 stocks.
+
+• Model built using LSTM architecture for price predictions
+
+• Frontend built using React to provide a user-friendly interface for selecting stocks, number of days to predict, and viewing predictions in graph format. 
+
 ## - [Trading Bot + LSTM Model](https://github.com/rishi-m100/trading-bot):
 
  ### Python, Tensorflow, Robin Stocks API
