@@ -13,7 +13,7 @@ Check out my [Portfolio](https://rishi-m100.github.io/portfolio/) to see more of
 
 ### Look below to my pinned repos and additionally to my repositories tab to see all my projects. 
 
-## - text2resume python module:
+## - [text2resume python module](https://pypi.org/project/text2resume/):
 
 [![Downloads](https://static.pepy.tech/badge/text2resume)](https://pepy.tech/project/text2resume)
 
